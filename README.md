@@ -15,11 +15,6 @@ An interactive, visualization-based graphical user interface (GUI) tool built wi
 - **Language:** Python 3.x
 - **GUI Framework:** CustomTkinter (built on top of Tkinter)
 
-## 📸 Screenshots
-*(Note: Add your screenshots here after uploading)*
-
-![Heap Sort](link-to-your-heap-sort-image.png)
-![Kruskal's Algorithm](link-to-your-kruskal-image.png)
 
 ## 💻 Installation & Usage
 
